@@ -8,7 +8,6 @@ This project is a smart music recommendation system designed to enhance the user
 
 - **Personalized Music Recommendations:** Based on user history, preferences, and popular music trends.
 - **Video Recommendations:** Suggests music videos alongside audio tracks.
-- **Voice Assistant Integration:** Hands-free interaction allowing users to request music via voice commands.
 - **Cross-Platform Compatibility:** Developed using Kotlin to run on multiple operating systems.
 - **Firebase Analytics Integration:** Monitors user interactions to improve recommendation accuracy.
 
