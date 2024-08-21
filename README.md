@@ -26,6 +26,33 @@ Most current music recommendation systems rely on user profile analysis using ba
 ### Proposed System
 The proposed system uses a hybrid recommendation approach, combining content-based and collaborative filtering to provide more accurate and personalized music recommendations. The system also suggests related videos and integrates a voice assistant for hands-free usage.
 
+### Steps to Download and Use
+
+1. **Clone the Repository**
+```bash
+git clone https://github.com/your-username/smart-music-recommendation-system.git
+```
+2. **Open in Android Studio**
+- Open Android Studio and select `Open an existing project`.
+- Navigate to the cloned directory and open it.
+
+3. **Configure Firebase**
+- Create a new project in the Firebase Console.
+- Download the `google-services.json` file from Firebase and place it in the `app/` directory of your project.
+- Enable Firebase Analytics in your project.
+
+4. **Build the Project**
+- Sync the project with Gradle files.
+- Build the project to ensure all dependencies are resolved.
+
+5. **Run the App**
+- Connect an Android device or use an emulator.
+- Click the `Run` button in Android Studio to install the app on your device.
+
+6. **Test Features**
+- Register or log in to the app.
+- Explore the music recommendations, like your favorite tracks, and test voice commands.
+
 ## Implementation Steps
 
 1. **Get Sample Code:** Start with the provided codebase.
