@@ -9,6 +9,14 @@ This project is a smart movie recommendation system designed to enhance the user
 - **Personalized Movie Recommendations:** Based on user history, preferences, and popular movie trends.
 - **Cross-Platform Compatibility:** Developed using Kotlin to run on multiple operating systems.
 - **Firebase Analytics Integration:** Monitors user interactions to improve recommendation accuracy.
+Movie Recommendation System:
+
+Step 1: User Selection
+Image: ![Screenshot (6)](https://github.com/user-attachments/assets/cb964516-2a7f-4d75-aece-d5e27ad4d64f)
+Step 2: Liked Movies
+Image: ![Screenshot (7)](https://github.com/user-attachments/assets/c9951b84-6c6a-4199-9191-1851525d6c74)
+Step 3: Recommended Movies
+Image: ![Screenshot (8)](https://github.com/user-attachments/assets/79b69044-ddb0-4306-b10e-1dc42cf9d481)
 
 ## Modules
 
