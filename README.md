@@ -2,30 +2,49 @@
 
 ## Introduction
 
-This project is a smart movie recommendation system designed to enhance the user experience by providing personalized movie recommendations based on user preferences, popular trends, and highly rated movie.
+This project is a smart movie recommendation system designed to enhance the user experience by providing personalized movie recommendations based on user preferences, popular trends, and highly rated movies.
 
 ## Features
 
 - **Personalized Movie Recommendations:** Based on user history, preferences, and popular movie trends.
 - **Cross-Platform Compatibility:** Developed using Kotlin to run on multiple operating systems.
 - **Firebase Analytics Integration:** Monitors user interactions to improve recommendation accuracy.
-Movie Recommendation System:
-<div align="center"> <table> <tr> <td align="center"> <strong>Step 1: Selecting Preferred Movies</strong><br> <img src="https://github.com/user-attachments/assets/cb964516-2a7f-4d75-aece-d5e27ad4d64f" alt="User Selecting Movies" width="300"> </td> <td align="center"> <strong>Step 2: Display of Liked Movies</strong><br> <img src="https://github.com/user-attachments/assets/c9951b84-6c6a-4199-9191-1851525d6c74" alt="Liked Movies Overview" width="300"> </td> <td align="center"> <strong>Step 3: Personalized Movie Recommendations</strong><br> <img src="https://github.com/user-attachments/assets/79b69044-ddb0-4306-b10e-1dc42cf9d481" alt="Recommended Movies" width="300"> </td> </tr> </table> </div>
+
+## Movie Recommendation System
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>Step 1: Selecting Preferred Movies</strong><br>
+        <img src="https://github.com/user-attachments/assets/cb964516-2a7f-4d75-aece-d5e27ad4d64f" alt="User Selecting Movies" width="300">
+      </td>
+      <td align="center">
+        <strong>Step 2: Display of Liked Movies</strong><br>
+        <img src="https://github.com/user-attachments/assets/c9951b84-6c6a-4199-9191-1851525d6c74" alt="Liked Movies Overview" width="300">
+      </td>
+      <td align="center">
+        <strong>Step 3: Personalized Movie Recommendations</strong><br>
+        <img src="https://github.com/user-attachments/assets/79b69044-ddb0-4306-b10e-1dc42cf9d481" alt="Recommended Movies" width="300">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Modules
 
 1. **User:** Interacts with the application to receive movie recommendations.
-2. **Application:** The core module where movie is recommended and played.
+2. **Application:** The core module where movies are recommended and played.
 3. **Algorithm Service:** Utilizes machine learning algorithms (content-based and collaborative filtering) to generate recommendations.
-4. **Database:** Stores user profiles and movie preference.
+4. **Database:** Stores user profiles and movie preferences.
 
 ## Project Design
 
 ### Existing System
-Most current music recommendation systems rely on user profile analysis using basic filtering techniques. These systems often lack innovation and do not fully consider user preferences.
+Most current movie recommendation systems rely on user profile analysis using basic filtering techniques. These systems often lack innovation and do not fully consider user preferences.
 
 ### Proposed System
-The proposed system uses a hybrid recommendation approach, combining content-based and collaborative filtering to provide more accurate and personalized music recommendations. The system also suggests related videos and integrates a voice assistant for hands-free usage.
+The proposed system uses a hybrid recommendation approach, combining content-based and collaborative filtering to provide more accurate and personalized movie recommendations. The system also suggests related movies and integrates a voice assistant for hands-free usage.
 
 ### Steps to Download and Use
 
@@ -52,7 +71,7 @@ git clone https://github.com/arjunnrajput/Smart-ML-Based-Movie-Recommendation-Sy
 
 6. **Test Features**
 - Register or log in to the app.
-- Explore the music recommendations, like your favorite tracks, and test voice commands.
+- Explore the movie recommendations, like your favorite movies, and test voice commands.
 
 ## Implementation Steps
 
@@ -64,12 +83,11 @@ git clone https://github.com/arjunnrajput/Smart-ML-Based-Movie-Recommendation-Sy
 6. **Export Data to BigQuery:** Analyze data for model training.
 7. **Preprocess and Train Model:** Use TensorFlow Lite for the recommendation model.
 8. **Integrate the Model:** Implement the trained model into the app.
-9. **Run the App:** Test the final version with movierecommendations.
+9. **Run the App:** Test the final version with movie recommendations.
 
 ## Testing
 
-- **Unit Testing:** Ensures the functionality of the recommendation system, particularly the movie recommendation.
-
+- **Unit Testing:** Ensures the functionality of the recommendation system, particularly the movie recommendation feature.
 
 ## Conclusion and Future Scope
 
