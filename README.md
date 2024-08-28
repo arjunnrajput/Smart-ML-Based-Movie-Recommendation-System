@@ -64,13 +64,13 @@ git clone https://github.com/arjunnrajput/Smart-ML-Based-Movie-Recommendation-Sy
 6. **Export Data to BigQuery:** Analyze data for model training.
 7. **Preprocess and Train Model:** Use TensorFlow Lite for the recommendation model.
 8. **Integrate the Model:** Implement the trained model into the app.
-9. **Run the App:** Test the final version with music and video recommendations.
+9. **Run the App:** Test the final version with movierecommendations.
 
 ## Testing
 
-- **Unit Testing:** Ensures the functionality of the recommendation system, particularly the music recommendation and playback features.
+- **Unit Testing:** Ensures the functionality of the recommendation system, particularly the movie recommendation.
 
 
 ## Conclusion and Future Scope
 
-The Smart Music Recommendation System successfully delivers personalized music and video recommendations. Future improvements may include refining the recommendation algorithms and expanding the system's features based on user feedback.
+The Smart Movie Recommendation System successfully delivers personalized movie recommendations. Future improvements may include refining the recommendation algorithms and expanding the system's features based on user feedback.
