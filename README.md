@@ -1,22 +1,21 @@
-# Smart Music Recommendation System
+![image](https://github.com/user-attachments/assets/d6e4e210-797b-4d90-8eb3-4e3970db586d)# Smart Movie Recommendation System
 
 ## Introduction
 
-This project is a smart music recommendation system designed to enhance the user experience by providing personalized music recommendations based on user preferences, popular trends, and highly rated music. The system integrates advanced features like voice assistance and video recommendations to make it more interactive and user-friendly.
+This project is a smart movie recommendation system designed to enhance the user experience by providing personalized movie recommendations based on user preferences, popular trends, and highly rated movie.
 
 ## Features
 
-- **Personalized Music Recommendations:** Based on user history, preferences, and popular music trends.
-- **Video Recommendations:** Suggests music videos alongside audio tracks.
+- **Personalized Movie Recommendations:** Based on user history, preferences, and popular movie trends.
 - **Cross-Platform Compatibility:** Developed using Kotlin to run on multiple operating systems.
 - **Firebase Analytics Integration:** Monitors user interactions to improve recommendation accuracy.
 
 ## Modules
 
-1. **User:** Interacts with the application to receive music recommendations.
-2. **Application:** The core module where music is recommended and played.
+1. **User:** Interacts with the application to receive movie recommendations.
+2. **Application:** The core module where movie is recommended and played.
 3. **Algorithm Service:** Utilizes machine learning algorithms (content-based and collaborative filtering) to generate recommendations.
-4. **Database:** Stores user profiles and music playlists.
+4. **Database:** Stores user profiles and movie preference.
 
 ## Project Design
 
@@ -30,7 +29,7 @@ The proposed system uses a hybrid recommendation approach, combining content-bas
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/smart-music-recommendation-system.git
+git clone https://github.com/arjunnrajput/Smart-ML-Based-Movie-Recommendation-System/ml
 ```
 2. **Open in Android Studio**
 - Open Android Studio and select `Open an existing project`.
