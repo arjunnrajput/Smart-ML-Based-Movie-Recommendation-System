@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d6e4e210-797b-4d90-8eb3-4e3970db586d)# Smart Movie Recommendation System
+# Smart Movie Recommendation System
 
 ## Introduction
 
